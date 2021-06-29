@@ -1,0 +1,19 @@
+talks:
+0:
+id: 10889
+talk_title: Ejemplo de request GET
+url_friendly_talk_title: modern-front-end-with-the-eues-of-a-php-developer
+talk_description: Forma de obtener datos con el método de .ajax()
+type: Talk
+start_date: 2014-06-28T14:30:00+02:00
+duration: 45
+stub: 231ee
+average_rating: 4
+comments_enabled: 0
+comment_count: 12
+starred: false
+starred_count: 0
+speakers:
+0:
+speaker_name: Jaime González
+speaker_uri: https://github.com/JaimeGonz
